@@ -3,7 +3,19 @@ body {margin: 0;
 background-repeat: no-repeat;
 background-size: cover;    
 }
-h1.video
+ul.list
+{
+color: white  
+}
+h1.Fun
+{
+color: white  
+}
+h1.pics
+{
+ color: white 
+}
+h1.Video
 {
 color: white  
 }
